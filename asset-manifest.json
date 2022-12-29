@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/food-cart-react/static/css/main.1810d402.css",
-    "main.js": "/food-cart-react/static/js/main.506cf9a9.js",
-    "static/media/meals.jpg": "/food-cart-react/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/food-cart-react/index.html",
-    "main.1810d402.css.map": "/food-cart-react/static/css/main.1810d402.css.map",
-    "main.506cf9a9.js.map": "/food-cart-react/static/js/main.506cf9a9.js.map"
+    "main.css": "/static/css/main.1810d402.css",
+    "main.js": "/static/js/main.b6d7ae8f.js",
+    "static/media/meals.jpg": "/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/index.html",
+    "main.1810d402.css.map": "/static/css/main.1810d402.css.map",
+    "main.b6d7ae8f.js.map": "/static/js/main.b6d7ae8f.js.map"
   },
   "entrypoints": [
     "static/css/main.1810d402.css",
-    "static/js/main.506cf9a9.js"
+    "static/js/main.b6d7ae8f.js"
   ]
 }
